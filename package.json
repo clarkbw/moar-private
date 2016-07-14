@@ -1,0 +1,18 @@
+{
+  "title": "MOAR Privacy when Private Browsing",
+  "name": "moar-private",
+  "version": "0.0.1",
+  "description": "Blurs the Firefox window when Private Browsing and you focus elsewhere",
+  "main": "index.js",
+  "author": "Bryan Clark <clarkbw@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL-2",
+  "keywords": [
+    "jetpack"
+  ],
+  "permissions": {
+    "private-browsing": true
+  }
+}
