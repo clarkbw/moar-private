@@ -9,4 +9,4 @@ This add-on require the jpm add-on build system. `npm install -g jpm`
 
 `jpm run`
 
-![moar-private](https://cloud.githubusercontent.com/assets/2134/16853816/f0554be8-49c2-11e6-9ce0-a73d0f4af5dd.gif)
+![better-gif-moar-privacy](https://cloud.githubusercontent.com/assets/2134/16853988/e6555560-49c3-11e6-975c-959da961e303.gif)
