@@ -1,4 +1,6 @@
 #MOAR Privacy when Private Browsing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/clarkbw/moar-private.svg)](https://greenkeeper.io/)
 Blurs the Firefox window when Private Browsing and you focus elsewhere
 
 # develop
